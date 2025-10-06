@@ -25,8 +25,8 @@ Today, I’m further developing my skills at **42 Porto**, where the peer-to-pee
 | <a href="https://github.com/4Rr0x/push_swap">push_swap</a>                     | 2    | <img src="https://img.shields.io/github/languages/top/4Rr0x/push_swap" />       | <img src="https://img.shields.io/badge/96%20%2F%20100%20%E2%98%85-success" /> |
 | <a href="https://github.com/4Rr0x/pipex">pipex</a>                          | 2    | <img src="https://img.shields.io/github/languages/top/4Rr0x/pipex" />        | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> |
 | <a href="https://github.com/4Rr0x/so_long">so_long</a>                         | 2    | <img src="https://img.shields.io/github/languages/top/4Rr0x/so_long" />         | <img src="https://img.shields.io/badge/121%20%2F%20100%20%E2%98%85-success" /> |
-| <a href="https://github.com/4Rr0x/42_minishell">minishell</a>                     | 3    | <img src="https://img.shields.io/github/languages/top/4Rr0x/42_minishell" />       | <img src="https://img.shields.io/badge/101%20%2F%20125%20%E2%98%85-success" /> |
-| <a href="https://github.com/4Rr0x/42_philosophers">philosophers</a>               | 3    | <img src="https://img.shields.io/github/languages/top/4Rr0x/42_philosophers" />    | <img src="https://img.shields.io/badge/100%20%2F%20125%20%E2%98%85-success" /> |
+| <a href="https://github.com/4Rr0x/42_minishell">minishell</a>                     | 3    | <img src="https://img.shields.io/github/languages/top/4Rr0x/42_minishell" />       | <img src="https://img.shields.io/badge/101%20%2F%20100%20%E2%98%85-success" /> |
+| <a href="https://github.com/4Rr0x/42_philosophers">philosophers</a>               | 3    | <img src="https://img.shields.io/github/languages/top/4Rr0x/42_philosophers" />    | <img src="https://img.shields.io/badge/100%20%2F%20100%20%E2%98%85-success" /> |
 
 </div>
 
