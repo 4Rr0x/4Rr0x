@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m passionate about **programming and problem-solving**. Alongside my path as a **Full-Stack Developer, MMA Fighter and other intense sports**, I’ve learned how rigor, timing, and teamwork are essential to achieve consistent results.  
+I’m passionate about **programming and problem-solving**. Alongside my path as a **Full-Stack Developer, MMA Fighter and other intense sports**, I’ve learned how rigor, timing, teamwork and consistency are essential to achieve results.  
 
 My interest in technology began early — at **10/11 years old** I was building mine and my friends computer's, dabbling in other aspects of technology like games and other electronics. These projects nurtured my creativity, persistence, and curiosity for building interactive systems. A few years later, I started a Professional curse in **TGPSI - Técnico de Gestão e Programação de Sistemas de Informação**.  
 
